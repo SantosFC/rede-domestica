@@ -1,0 +1,6 @@
+dispositivo,mac,ip_fixo,metodo
+"fedora (Ethernet, br0)",30:24:A9:FB:C7:6F,192.168.0.60,"nmcli manual (interface br0)"
+"fedora (Wi-Fi)",22:90:26:F9:0D:6F,192.168.0.64,"nmcli manual (CLARO_F76183)"
+"orangepipc (end0)",02:81:49:3B:6E:5D,192.168.0.61,"nmcli manual (Wired connection 1)"
+"win11 (VM, KVM bridge)",52:54:00:D9:C3:41,192.168.0.62,"IP estático configurado no Windows"
+"sandbox (VM, KVM bridge)",52:54:00:F5:4F:0E,192.168.0.63,"nmcli manual (Wired connection 1)"
